@@ -1,1 +1,1 @@
-# SBL_TurbulenceTransition
+This repository contains the scripts for turbulence variables calculation in a paper submitted to GRL which is titled as "A Physically-based, Non-dimensional Index for Characterizing the Transition of Turbulence Regimes in Stable Atmospheric Boundary Layers". 
